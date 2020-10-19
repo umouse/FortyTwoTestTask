@@ -14,7 +14,8 @@ build
 media
 static
 *.dat
-.env
+venv/
 .idea/
 fortytwo_test_task/settings/local.py
 /node_modules/
+
